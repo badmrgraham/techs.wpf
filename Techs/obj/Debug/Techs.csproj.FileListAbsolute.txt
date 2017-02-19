@@ -1,0 +1,10 @@
+E:\workspace\Techs\Techs\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace\Techs\Techs\bin\Debug\Techs.dll
+E:\workspace\Techs\Techs\bin\Debug\Techs.pdb
+E:\workspace\Techs\Techs\obj\Debug\Techs.dll
+E:\workspace\Techs\Techs\obj\Debug\Techs.pdb
+D:\workspace\Techs\Techs\bin\Debug\Techs.dll
+D:\workspace\Techs\Techs\bin\Debug\Techs.pdb
+D:\workspace\Techs\Techs\obj\Debug\Techs.csprojResolveAssemblyReference.cache
+D:\workspace\Techs\Techs\obj\Debug\Techs.dll
+D:\workspace\Techs\Techs\obj\Debug\Techs.pdb

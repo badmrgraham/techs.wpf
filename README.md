@@ -1,0 +1,1 @@
+the starting of some game ideas used as a wpf training exercise back in 2012

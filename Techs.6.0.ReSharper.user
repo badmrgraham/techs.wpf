@@ -1,0 +1,137 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:IHasStats.cs" caret="315" fromTop="14" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:IEquipTech.cs" caret="0" fromTop="0" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Ability.cs" caret="223" fromTop="13" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:TechItem.cs" caret="123" fromTop="7" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Abilities.cs" caret="123" fromTop="7" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml" caret="1273" fromTop="10" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="757" fromTop="9" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="159" fromTop="8" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:HeroClass.cs" caret="339" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="146" fromTop="7" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:IHasStats.cs" caret="294" fromTop="13" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="455" fromTop="10" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:IEquipTech.cs" caret="206" fromTop="10" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="1384" fromTop="37" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Ability.cs" caret="261" fromTop="15" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="1096" fromTop="28" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="1544" fromTop="43" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Ability.cs" caret="123" fromTop="7" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Abilities.cs" caret="123" fromTop="7" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:TechItem.cs" caret="123" fromTop="7" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="1007" fromTop="27" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="898" fromTop="25" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml" caret="840" fromTop="15" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml" caret="1420" fromTop="10" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="990" fromTop="33" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="1835" fromTop="37" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:HeroClass.cs" caret="316" fromTop="14" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="1782" fromTop="30" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="1223" fromTop="18" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml" caret="673" fromTop="2" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="834" fromTop="14" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml.cs" caret="894" fromTop="11" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="2196" fromTop="30" />
+      <File id="FE109486-412C-427B-8439-8DC79A7E600F/f:Hero.cs" caret="384" fromTop="15" />
+      <File id="29198478-A14E-4521-8E04-E5E4753ED6BE/f:MainWindow.xaml" caret="1262" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="383" />
+      <Item value="string" priority="287" />
+      <Item value="int" priority="63" />
+      <Item value="TechItem`0" priority="31" />
+      <Item value="IEquipTech`0" priority="31" />
+      <Item value="List" priority="93" />
+      <Item value="var" priority="63" />
+      <Item value="new" priority="191" />
+      <Item value="Ability`0" priority="95" />
+      <Item value="abilities" priority="224" />
+      <Item value="Offensive" priority="127" />
+      <Item value="static" priority="31" />
+      <Item value="Defensive" priority="63" />
+      <Item value="if" priority="159" />
+      <Item value="return" priority="127" />
+      <Item value="else" priority="31" />
+      <Item value="Ability" priority="28" />
+      <Item value="Abilities`0" priority="95" />
+      <Item value="class" priority="31" />
+      <Item value="void" priority="95" />
+      <Item value="HeroClass`0" priority="95" />
+      <Item value="Class" priority="127" />
+      <Item value="Heroes" priority="63" />
+      <Item value="ObservableCollection&lt;Hero&gt;" priority="28" />
+      <Item value="Hero`0" priority="127" />
+      <Item value="Hero" priority="28" />
+      <Item value="hero" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="Name" priority="127" />
+      <Item value="#endregion" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="PropertyChanged" priority="127" />
+      <Item value="this" priority="63" />
+      <Item value="PropertyChangedEventArgs" priority="57" />
+      <Item value="private" priority="95" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="selectedHero" priority="63" />
+      <Item value="value" priority="63" />
+      <Item value="NotifyPropertyChanged`0" priority="63" />
+      <Item value="name" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="109" />
+      <Item value="ForEach`0" priority="26" />
+      <Item value="Any`1" priority="26" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Techs.TechItem">
+      <Item value="Abilities" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Techs.Abilities">
+      <Item value="Fight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Techs.HeroClass">
+      <Item value="Abilities" priority="26" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="SelectedItem" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+      <Item value="Empty" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
